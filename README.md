@@ -1,3 +1,19 @@
+Installation guide
+1. Run Command in Folder Project
+    composer update
+    npm install
+    npm run dev
+
+2. create .env file from .env.example settings database and add this line
+    NUM_CHARS_SHORT_LINK=7
+
+3. Create Database
+
+4. Run Command in Folder Project
+    php artisan migrate 
+
+-----------------------------------------------------------------------------------
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
