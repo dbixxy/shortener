@@ -1,16 +1,18 @@
 Installation guide
+
 1. Run Command in Folder Project
-    composer update
-    npm install
-    npm run dev
+    - composer updatt
+    - npm install
+    - npm run dev
 
 2. create .env file from .env.example settings database and add this line
+
     NUM_CHARS_SHORT_LINK=7
 
 3. Create Database
 
 4. Run Command in Folder Project
-    php artisan migrate 
+    - php artisan migrate 
 
 -----------------------------------------------------------------------------------
 
