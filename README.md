@@ -1,7 +1,7 @@
 Installation guide
 
 1. Run Command in Folder Project
-    - composer updatt
+    - composer update
     - npm install
     - npm run dev
 
